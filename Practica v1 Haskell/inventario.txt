@@ -1,0 +1,3 @@
+Articulo {nombre = "Guitarra", categoria = "musica", cantidad = 21}
+Articulo {nombre = "Nevera", categoria = "electrodomestico", cantidad = 4}
+Articulo {nombre = "Balon de futbol", categoria = "deportivo", cantidad = 42}
