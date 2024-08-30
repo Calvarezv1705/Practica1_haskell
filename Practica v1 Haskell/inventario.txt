@@ -1,2 +1,0 @@
-Articulo {nombre = "Lapiz Labial", categoria = Articulo de belleza, cantidad = 12}
-Articulo {nombre = "Balon de futbol", categoria = Articulo Deportivo, cantidad = 43}
